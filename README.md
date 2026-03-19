@@ -7,6 +7,13 @@ Sophomore studying Finance and Data Science at Canisius University. I build prac
 - **Risk Monitoring & Alerts System:** Developed a Python-based monitoring system that analyzes market data, calculates volatility, and triggers alerts with persistent logging for risk events  
 - **Market Dashboard:** Created an interactive Flask dashboard to visualize live stock data using Plotly and yFinance for real-time market insights  
 - **Banking Logging System:** Designed a Java-based application implementing structured logging, file handling, and configurable logging levels for transaction and system monitoring
+
+## Focus Areas
+
+- Risk Modeling & Analytics  
+- Market Data Analysis  
+- Monitoring & Alert Systems  
+- Backend Systems & Logging  
   
 ## Skills
 **Languages & Tools:** Python, Java, SQL, Git, Excel  
