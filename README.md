@@ -1,6 +1,6 @@
 # Hi, I'm Abu
 
-Sophomore studying Finance and Data Science at Canisius University. I build practical, data-driven projects focused on financial markets, risk modeling, and backend systems.
+Junior studying Finance and Data Science at Canisius University. I build practical, data-driven projects focused on financial markets, risk modeling, and backend systems.
 
 ## Featured Projects
 - **Credit Risk Mini-Model:** Built a logistic regression pipeline and deployed it via FastAPI to deliver real-time default probability predictions  
