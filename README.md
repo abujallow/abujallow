@@ -8,6 +8,7 @@ Sophomore studying Finance and Data Science at Canisius University. I build prac
 - **Market Dashboard:** Created an interactive Flask dashboard to visualize live stock data using Plotly and yFinance for real-time market insights  
 - **Banking Logging System:** Designed a Java-based application implementing structured logging, file handling, and configurable logging levels for transaction and system monitoring
 - **Java Data Analyzer:** Built a JavaFX desktop application that processes numeric text files, calculates statistical metrics, and exports results using efficient file handling and backend logic
+- **Probability Simulation Engine:** Built a Java application that simulates randomized card hands, tracks unique combinations, measures coverage progress, and exports probability results for analysis
 
 ## Focus Areas
 
