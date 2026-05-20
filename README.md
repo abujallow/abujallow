@@ -22,4 +22,4 @@ Junior studying Finance and Data Science at Canisius University. I build practic
 **Libraries & Frameworks:** pandas, scikit-learn, Flask, FastAPI, Plotly  
 
 ## Contact
-jallow.abubakr1@gmail.com • https://www.linkedin.com/in/abubakr1/ • http://onmyradar.lovestoblog.com/
+jallow.abubakr1@gmail.com • https://www.linkedin.com/in/abubakr1/ • http://abubakrjallow.vercel.app/
